@@ -1,4 +1,12 @@
-Welcome to your new dbt project!
+Welcome to my dbt project!
+
+### Airbnb Project 
+The data often generates by the ERP/CRM systems are messy and dirty, Airbnb data is not an exception.
+The DBT development framework was employed in this project to transform the Airbnb's host, apartment data and apartment available.
+
+### Macro and Ninja
+Both Macro and Ninja were equally employed to exectute this project and external packages are equally installed.
+
 
 ### Using the starter project
 
